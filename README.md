@@ -1,5 +1,5 @@
-<p align="center"><b>Hi there! I'm Bumseouk Ko.</b> 👋</p>
-<p align="center">A backend developer who dreams and keeps grinding to achieve the goal.</p>
+<h1 align="center">Hi there! I'm Bumseouk Ko. 👋</h1>
+<p align="center">A backend developer who dreams big and keeps grinding to achieve the goal.</p>
 
 ---
 

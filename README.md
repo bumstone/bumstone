@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20C997,100:6DB33F&height=200&section=header&text=Hi%20there!%20I'm%20Bumseouk%20Ko%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header"/>
 </div>
 
-<h3 align="center">A backend developer aspiring to write a book that systematizes real-world experiences solving integration challenges between systems.</h3>
+<h3 align="center">A backend developer with a keen interest in system integration and optimization, aiming to share practical development insights through authoring a book.</h3>
 
 <p align="center">
   <a href="https://bumstone.github.io/kbs-portfolio/" target="_blank">

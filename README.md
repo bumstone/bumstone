@@ -57,14 +57,12 @@
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="https://velog.io/@kobumseouk/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
-  </a>
-  <a href="mailto:kbssky2993@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kbssky2993%40gmail.com-168DE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<a href="https://velog.io/@kobumseouk/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
+</a>
+<a href="mailto:kbssky2993@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kbssky2993%40gmail.com-168DE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 ---
 
